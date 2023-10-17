@@ -1,0 +1,16 @@
+{
+    "name": "trans/quete2",
+    "description": "quete2 de la wild code school",
+    "autoload": {
+        "psr-4": {
+            "Trans\\Quete2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NICKY RASAMOELINA",
+            "email": "nickyrasa@gmail.com"
+        }
+    ],
+    "require": {}
+}
